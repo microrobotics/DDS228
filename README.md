@@ -1,8 +1,10 @@
 # DDS228
+DDS228 Energy Meter Single Phase - 50A
+
 ![DDS228-000-500x500](https://github.com/microrobotics/DDS228/assets/4562957/80fe5f5e-a4f4-4514-ab6f-4418fe84a17c)
 
 
-DDS228 Energy Meter Single Phase - 50A
+
 
 Modbus-RTU communication content:
 
