@@ -15,4 +15,7 @@ Single phase advance register address
 
 ![image](https://github.com/microrobotics/DDS228/assets/4562957/e543d9d6-97b2-4c4c-8e7b-426aede8f79f)
 
+The slave ID is printed on the enclosure. For e.g. 230314-038. 
+038 is the slave ID. 
+
 Please note: The meter model we have in stock only supports kWh readings. 
